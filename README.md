@@ -10,6 +10,6 @@ To do this, we will cluster the neighborhoods based on their nearby venues (usin
 
 ### Data Description
 For the project we used the following data:
-  *An Excel file provided by the Geographical and Statistical Information Institute of Jalisco (IIEG) that contained a list of 17,700 prices of houses on the different neighborhoods in the metropolitan area. This database was built on April 2020, so we used the change rate from the end of that month (24.207 MXN/USD). 
-  *Foursquare API to get the most common venues for each of the selected neighborhoods.
-  *The geopy.geocoders library to get the coordinates for each neighborhood.
+  * An Excel file provided by the Geographical and Statistical Information Institute of Jalisco (IIEG) that contained a list of 17,700 prices of houses on the different neighborhoods in the metropolitan area. This database was built on April 2020, so we used the change rate from the end of that month (24.207 MXN/USD). 
+  * Foursquare API to get the most common venues for each of the selected neighborhoods.
+  * The geopy.geocoders library to get the coordinates for each neighborhood.
